@@ -29,5 +29,10 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+## Routes
+
+```
+http://localhost:3000/schedules/ - GET
+```
 
 Nest is [MIT licensed](LICENSE).
